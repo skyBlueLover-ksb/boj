@@ -38,7 +38,7 @@ def getlower(num):  # n개
 
 
 count = 0
-if cranes[0] < boxes[0]:
+if cranes[n - 1] < boxes[m - 1]:
     print(-1)
 else:
     nums = getNumbers(collections.deque())
