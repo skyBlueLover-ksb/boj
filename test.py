@@ -21,5 +21,8 @@ data = json.loads(json_data)
 print(data)
 """
 import numpy as np
+import sys
 
-print([3, 3, 3] / np.float_(3))
+input = sys.stdin.readline
+print(list(input()))
+print(list(input()))
