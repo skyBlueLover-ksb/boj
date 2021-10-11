@@ -1,16 +1,3 @@
-"""
-def gettSum(n):
-    n_string = str(n)
-    count = 0
-    for i in range(len(n_string)):
-        count += int(n_string[i])
-    return count
-count = 0
-for i in range(n, m + 1):
-    count += gettSum(i)
-print(count)
-"""
-
 import math
 
 
@@ -33,6 +20,6 @@ def getSum(a, n):  # 0에서부터 a까지의 합, n+1자리수
         )
 
 
-n, m = map(int, input().split())
-
-print(mySum(m) - mySum(n - 1))
+for _ in range(int(input())):
+    n, m = map(int, input().split())
+    print(mySum(m) - mySum(n - 1))

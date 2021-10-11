@@ -30,6 +30,7 @@ def dfs(g, v, visited, ordering):
 for i in range(1, V + 1):
     if not visited1[i]:
         dfs(graph, i, visited1, ordering)
+print(ordering)
 
 while ordering:
     v = ordering.pop()
