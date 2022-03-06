@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08d1cba0-beab-4264-a718-d1bb8227ae21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BOJ.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]객체지향프로그래밍/Chess Specification and Code v1-20191108 copied - 복사본/Chess Skeleton Code v1/.idea/Chess Skeleton Code v1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]객체지향프로그래밍/Chess Specification and Code v1-20191108 copied/Chess Skeleton Code v1/.idea/Chess Skeleton Code v1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]객체지향프로그래밍/Chess Specification and Code v1-20191108/.idea/Chess Specification and Code v1-20191108.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]객체지향프로그래밍/Chess Specification and Code v1-20191108/Chess Skeleton Code v1/.idea/Chess Skeleton Code v1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]객체지향프로그래밍/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]자료구조/pa3_1018 (1)/pa3/.idea/pa3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]자료구조/pa5/pa5/.idea/pa5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]자료구조/pas/pa2/untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]자료구조/pas/pa3/untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]자료구조/pas/pa3_1018 (1)/pa3/.idea/pa3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[19-2]자료구조/pas/pa3_1018_test/pa3/.idea/pa3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/Chat-room-and-file-transfer-with-Java-Socket-master/Chat-room-and-file-transfer-with-Java-Socket-master/.idea/Chat-room-and-file-transfer-with-Java-Socket-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/ChatRoom/ChatRoom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/Chatting/CHATTING.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/Chatting/src/client/.idea/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/Chatting/src/client/form/.idea/form.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/ChattingRoom/ChattingRoom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/Client/Client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/simpleChattingRoom/out/production/simpleChattingRoom/Client/.idea/ClientPackage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/simpleChattingRoom/out/production/simpleChattingRoom/Server/.idea/ServerPackage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/simpleChattingRoom/simpleChattingRoom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/simpleChattingRoom/src/Client/.idea/ClientPackage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/simpleChattingRoom/src/Server/.idea/ServerPackage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/채팅방/Client/Client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[20-2]컴퓨터네트워크/채팅방 관련/채팅방/Server/Server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[21-1]컴퓨터비전/Project1(2021)/.idea/Project1(2021).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[21-1]컴퓨터아키텍쳐/Shared_Folder/project5/.idea/project5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[21-2]시스템프로그래밍/share/.idea/share.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[21-2]컴파일러설계/CSI4104_Assignment_1/CSI4104_Assignment_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[21-2]컴파일러설계/CSI4104_Assignment_1/MiniC/MiniC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[21-2]컴파일러설계/CSI4104_Assignment_1/MiniC/Scanner/Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[21-2]컴파일러설계/CSI4104_Assignment_4/MiniC/MiniC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[21-2]컴파일러설계/test/.idea/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[21-2]컴파일러설계/untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[22-1]컴퓨터비전/[21-1]컴퓨터비전_철회 전 내용/Project1(2021)/.idea/Project1(2021).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../온라인강의/ML기초/zerotoall/hunkim DeepLearningZeroToAll master tf2/.idea/hunkim DeepLearningZeroToAll master tf2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="260S7xuEKbK6wobqqAB9xbYJCxV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -78,6 +37,8 @@
       <option name="presentableId" value="Default" />
       <updated>1646558847109</updated>
       <workItem from="1646558848246" duration="136000" />
+      <workItem from="1646559400902" duration="857000" />
+      <workItem from="1646562288361" duration="11000" />
     </task>
     <servers />
   </component>
@@ -94,6 +55,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
