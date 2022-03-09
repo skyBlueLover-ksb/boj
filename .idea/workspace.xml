@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08d1cba0-beab-4264-a718-d1bb8227ae21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ15591.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter5/list_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter6/leetcode125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter6/string.py" afterDir="false" />
+    <list default="true" id="08d1cba0-beab-4264-a718-d1bb8227ae21" name="Changes" comment="keep going">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/chapter6/leetcode125.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter6/leetcode125.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +37,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="build.tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv_2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.test">
     <configuration name="BOJ15591" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -109,8 +105,18 @@
       <workItem from="1646562288361" duration="11000" />
       <workItem from="1646562301066" duration="10655000" />
       <workItem from="1646643598757" duration="713000" />
-      <workItem from="1646743959551" duration="10692000" />
+      <workItem from="1646743959551" duration="11028000" />
+      <workItem from="1646793632167" duration="272000" />
+      <workItem from="1646793919980" duration="54000" />
     </task>
+    <task id="LOCAL-00001" summary="keep going">
+      <created>1646793294697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646793294697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="keep going" />
+    <option name="LAST_COMMIT_MESSAGE" value="keep going" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BOJ$BOJ15591.coverage" NAME="BOJ15591 Coverage Results" MODIFIED="1646579833037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
