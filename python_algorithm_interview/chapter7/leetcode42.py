@@ -16,3 +16,6 @@ class Solution:
 
             left_max, right_max = max(left_max, height[left]), max(right_max, height[right])
         return volume
+# s = Solution()
+# height = [4,2,0,3,2,5]
+# print(Solution.trap(s,height))

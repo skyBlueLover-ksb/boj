@@ -1,3 +1,5 @@
+import collections
+
 a = [1, 2, 3]
 len(a)
 a[1:2]
@@ -29,3 +31,4 @@ c = collections.defaultdict(int)
 d = collections.Counter(a)
 d.most_common(2)
 e = collections.OrderedDict({'banana': 3, 'apple': 4, 'pear': 1})
+collections.defaultdict()
