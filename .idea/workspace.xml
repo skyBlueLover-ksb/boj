@@ -5,19 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08d1cba0-beab-4264-a718-d1bb8227ae21" name="Changes" comment="solve leetcode problems">
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter7/leetcode561.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode206.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode234.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode328.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode92.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/chapter5/list_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter5/list_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/chapter7/leetcode42.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter7/leetcode42.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_for_coding_test/chapter5/p2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_for_coding_test/chapter5/p2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +230,9 @@
       <workItem from="1646898891414" duration="12087000" />
       <workItem from="1646989118664" duration="17325000" />
       <workItem from="1647167761917" duration="3156000" />
-      <workItem from="1647233617038" duration="1932000" />
+      <workItem from="1647233617038" duration="3639000" />
+      <workItem from="1647342910149" duration="963000" />
+      <workItem from="1647428541683" duration="3255000" />
     </task>
     <task id="LOCAL-00001" summary="keep going">
       <created>1646793294697</created>
@@ -263,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646920391790</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="solve leetcode problems">
+      <created>1647245060369</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647245060369</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
