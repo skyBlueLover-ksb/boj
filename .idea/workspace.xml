@@ -5,16 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08d1cba0-beab-4264-a718-d1bb8227ae21" name="Changes" comment="solve leetcode problems">
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode328.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter8/leetcode92.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ1037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15486.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ2206.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ4375.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ6603.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter9/leetcode20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter9/leetcode225.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter9/leetcode232.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter9/leetcode316.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter9/leetcode622.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter9/leetcode739.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter9/test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sk_ict_2/2020_kakao_gasasearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sk_ict_2/p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sk_ict_2/p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sk_ict_2/p3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sk_ict_2/p4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ1260.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ1260.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +67,102 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv_2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.pyOptions" />
   </component>
-  <component name="RunManager" selected="Python.p4">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gogot\Desktop\컴과 과목들\BOJ" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.BOJ6603">
+    <configuration name="2020_kakao_gasasearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sk_ict_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sk_ict_2/2020_kakao_gasasearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ1037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ1037.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ4375" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ4375.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ6603" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ6603.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="lab1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode125" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,100 +193,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algorithm_interview/chapter6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sk_ict_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algorithm_interview/chapter6/leetcode125.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="leetcode42" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lab1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algorithm_interview/chapter7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algorithm_interview/chapter7/leetcode42.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="list_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lab1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algorithm_interview/chapter5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algorithm_interview/chapter5/list_dict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lab1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sk_ict_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sk_ict_1/p3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lab1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sk_ict_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sk_ict_1/p4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sk_ict_2/p1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,19 +209,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.list_dict" />
-      <item itemvalue="Python.leetcode125" />
-      <item itemvalue="Python.leetcode42" />
-      <item itemvalue="Python.p3" />
-      <item itemvalue="Python.p4" />
+      <item itemvalue="Python.p1" />
+      <item itemvalue="Python.2020_kakao_gasasearch" />
+      <item itemvalue="Python.BOJ4375" />
+      <item itemvalue="Python.BOJ1037" />
+      <item itemvalue="Python.BOJ6603" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p4" />
-        <item itemvalue="Python.p3" />
-        <item itemvalue="Python.leetcode42" />
-        <item itemvalue="Python.leetcode125" />
-        <item itemvalue="Python.list_dict" />
+        <item itemvalue="Python.BOJ6603" />
+        <item itemvalue="Python.BOJ1037" />
+        <item itemvalue="Python.BOJ4375" />
+        <item itemvalue="Python.2020_kakao_gasasearch" />
+        <item itemvalue="Python.p1" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +250,18 @@
       <workItem from="1647167761917" duration="3156000" />
       <workItem from="1647233617038" duration="3639000" />
       <workItem from="1647342910149" duration="963000" />
-      <workItem from="1647428541683" duration="3255000" />
+      <workItem from="1647428541683" duration="4959000" />
+      <workItem from="1647503825152" duration="1330000" />
+      <workItem from="1647513535225" duration="5000" />
+      <workItem from="1647524524476" duration="6976000" />
+      <workItem from="1647531590614" duration="595000" />
+      <workItem from="1647574538884" duration="28000" />
+      <workItem from="1647604548471" duration="3598000" />
+      <workItem from="1647660994736" duration="614000" />
+      <workItem from="1647661675460" duration="22435000" />
+      <workItem from="1647788531680" duration="3315000" />
+      <workItem from="1647852330499" duration="672000" />
+      <workItem from="1647861323437" duration="2838000" />
     </task>
     <task id="LOCAL-00001" summary="keep going">
       <created>1646793294697</created>
@@ -269,7 +298,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647245060369</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="solve leetcode problems">
+      <created>1647432402435</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647432402435</updated>
+    </task>
+    <task id="LOCAL-00007" summary="solve leetcode problems">
+      <created>1647432525768</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647432525768</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,13 +338,21 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BOJ$BOJ15591.coverage" NAME="BOJ15591 Coverage Results" MODIFIED="1646579833037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BOJ$BOJ1071.coverage" NAME="BOJ1071 Coverage Results" MODIFIED="1646794619981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1647677327076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_2" />
     <SUITE FILE_PATH="coverage/BOJ$p4.coverage" NAME="p4 Coverage Results" MODIFIED="1647057198893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_1" />
-    <SUITE FILE_PATH="coverage/BOJ$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1646794614583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/BOJ$test.coverage" NAME="test Coverage Results" MODIFIED="1646794018827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BOJ$leetcode42.coverage" NAME="leetcode42 Coverage Results" MODIFIED="1646920500372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter7" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ1037.coverage" NAME="BOJ1037 Coverage Results" MODIFIED="1647699862060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ6603.coverage" NAME="BOJ6603 Coverage Results" MODIFIED="1647700985683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BOJ$list_dict.coverage" NAME="list_dict Coverage Results" MODIFIED="1646796611655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter5" />
     <SUITE FILE_PATH="coverage/BOJ$p3.coverage" NAME="p3 Coverage Results" MODIFIED="1647052013358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_1" />
+    <SUITE FILE_PATH="coverage/BOJ$2020_kakao_gasasearch.coverage" NAME="2020_kakao_gasasearch Coverage Results" MODIFIED="1647679754851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_2" />
     <SUITE FILE_PATH="coverage/BOJ$leetcode125.coverage" NAME="leetcode125 Coverage Results" MODIFIED="1646796615462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter6" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ1071.coverage" NAME="BOJ1071 Coverage Results" MODIFIED="1646794619981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ2206.coverage" NAME="BOJ2206 Coverage Results" MODIFIED="1647530956787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1646794614583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/BOJ$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1647677224951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_2" />
+    <SUITE FILE_PATH="coverage/BOJ$test.coverage" NAME="test Coverage Results" MODIFIED="1646794018827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$leetcode42.coverage" NAME="leetcode42 Coverage Results" MODIFIED="1646920500372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter7" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ4375.coverage" NAME="BOJ4375 Coverage Results" MODIFIED="1647699315121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15486.coverage" NAME="BOJ15486 Coverage Results" MODIFIED="1647526553495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

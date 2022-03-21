@@ -1,4 +1,5 @@
 import collections as cl
+import heapq
 
 n, m, v = map(int, input().split())
 
@@ -36,3 +37,17 @@ visited2 = [False] * (n + 1)
 dfs(graph, v, visited1)
 print()
 bfs(graph, v, visited2)
+
+def dijkstra(start, distance_from_start):
+    q = []
+    heapq.heappush(q, (0, start))
+
+    while q:
+        d, v = heapq.heappop(q)
+        if distance_from_start[v] < d:
+            continue
+        for i in graph[v]:
+            if distance_from_start[i[0]] > d + i[1]:
+                distance_from_start[i[0]] = d + i[1]
+                heapq.heappush(q, (d + i[1], i[0]))
+
