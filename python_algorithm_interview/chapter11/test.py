@@ -13,3 +13,4 @@ for _ in range(TRIALS):
         birthdays.append(birthday)
 
 print(f'{same_birthdays / TRIALS * 100}%')
+

@@ -5,9 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08d1cba0-beab-4264-a718-d1bb8227ae21" name="Changes" comment="solve leetcode problems">
-      <change afterPath="$PROJECT_DIR$/BOJ23311.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter10/leetcode23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter11/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ11052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ14225.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15649.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15650.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15651.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15652.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15654.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15655.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15656.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15657.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15663.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15664.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15665.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ15666.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ16973.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ21921.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ2533.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ3777.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ9095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro42578.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro42579.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter11/leetcode3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter11/leetcode347.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter11/leetcode706.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter11/leetcode771.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter12/test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter9/test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_1/p2.py" afterDir="false" />
@@ -18,7 +41,8 @@
       <change afterPath="$PROJECT_DIR$/sk_ict_2/p3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sk_ict_2/p4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/chapter10/leetcode27.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ1182.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ23311.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ23311.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/chapter11/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/chapter11/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,15 +82,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv_2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.pyOptions" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gogot\Desktop\컴과 과목들\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ23311">
-    <configuration name="BOJ1037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ11052">
+    <configuration name="BOJ11052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +103,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ1037.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ11052.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ1182" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ14225" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +125,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ1182.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ14225.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ23311" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ15666" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +147,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ23311.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ15666.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ6603" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ9095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +169,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ6603.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ9095.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,12 +208,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algorithm_interview/chapter11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algorithm_interview/chapter12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algorithm_interview/chapter11/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algorithm_interview/chapter12/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,19 +224,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.BOJ1037" />
-      <item itemvalue="Python.BOJ6603" />
+      <item itemvalue="Python.BOJ15666" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.BOJ1182" />
-      <item itemvalue="Python.BOJ23311" />
+      <item itemvalue="Python.BOJ14225" />
+      <item itemvalue="Python.BOJ9095" />
+      <item itemvalue="Python.BOJ11052" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BOJ23311" />
-        <item itemvalue="Python.BOJ1182" />
+        <item itemvalue="Python.BOJ11052" />
+        <item itemvalue="Python.BOJ9095" />
+        <item itemvalue="Python.BOJ14225" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.BOJ6603" />
-        <item itemvalue="Python.BOJ1037" />
+        <item itemvalue="Python.BOJ15666" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +276,12 @@
       <workItem from="1647661675460" duration="22435000" />
       <workItem from="1647788531680" duration="3315000" />
       <workItem from="1647852330499" duration="672000" />
-      <workItem from="1647861323437" duration="8970000" />
+      <workItem from="1647861323437" duration="14079000" />
+      <workItem from="1647946508993" duration="16870000" />
+      <workItem from="1648014725262" duration="3663000" />
+      <workItem from="1648032434845" duration="3667000" />
+      <workItem from="1648036946409" duration="6520000" />
+      <workItem from="1648101550726" duration="8318000" />
     </task>
     <task id="LOCAL-00001" summary="keep going">
       <created>1646793294697</created>
@@ -310,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647868810562</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="solve leetcode problems">
+      <created>1647875882278</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647875882278</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,24 +371,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="solve leetcode problems" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BOJ$BOJ15591.coverage" NAME="BOJ15591 Coverage Results" MODIFIED="1646579833037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BOJ$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1647677327076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_2" />
+    <SUITE FILE_PATH="coverage/BOJ$pro42579.coverage" NAME="pro42579 Coverage Results" MODIFIED="1648016901949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BOJ$p4.coverage" NAME="p4 Coverage Results" MODIFIED="1647057198893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_1" />
-    <SUITE FILE_PATH="coverage/BOJ$BOJ1037.coverage" NAME="BOJ1037 Coverage Results" MODIFIED="1647699862060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ6603.coverage" NAME="BOJ6603 Coverage Results" MODIFIED="1647700985683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BOJ$BOJ23311.coverage" NAME="BOJ23311 Coverage Results" MODIFIED="1647875552232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BOJ$list_dict.coverage" NAME="list_dict Coverage Results" MODIFIED="1646796611655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter5" />
-    <SUITE FILE_PATH="coverage/BOJ$p3.coverage" NAME="p3 Coverage Results" MODIFIED="1647052013358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_1" />
     <SUITE FILE_PATH="coverage/BOJ$2020_kakao_gasasearch.coverage" NAME="2020_kakao_gasasearch Coverage Results" MODIFIED="1647679754851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_2" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ1071.coverage" NAME="BOJ1071 Coverage Results" MODIFIED="1646794619981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15652.coverage" NAME="BOJ15652 Coverage Results" MODIFIED="1648035436768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1647677224951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_2" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15655.coverage" NAME="BOJ15655 Coverage Results" MODIFIED="1648037625436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ9095.coverage" NAME="BOJ9095 Coverage Results" MODIFIED="1648111586905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$leetcode42.coverage" NAME="leetcode42 Coverage Results" MODIFIED="1646920500372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter7" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15664.coverage" NAME="BOJ15664 Coverage Results" MODIFIED="1648038859417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15649.coverage" NAME="BOJ15649 Coverage Results" MODIFIED="1648034601094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15486.coverage" NAME="BOJ15486 Coverage Results" MODIFIED="1647526553495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15591.coverage" NAME="BOJ15591 Coverage Results" MODIFIED="1646579833037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ1037.coverage" NAME="BOJ1037 Coverage Results" MODIFIED="1647699862060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15651.coverage" NAME="BOJ15651 Coverage Results" MODIFIED="1648035425205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15663.coverage" NAME="BOJ15663 Coverage Results" MODIFIED="1648038329504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15666.coverage" NAME="BOJ15666 Coverage Results" MODIFIED="1648040030527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ23311.coverage" NAME="BOJ23311 Coverage Results" MODIFIED="1647967183494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$leetcode347.coverage" NAME="leetcode347 Coverage Results" MODIFIED="1647956146826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter11" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ21921.coverage" NAME="BOJ21921 Coverage Results" MODIFIED="1647958273711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ2533.coverage" NAME="BOJ2533 Coverage Results" MODIFIED="1647964711149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$p3.coverage" NAME="p3 Coverage Results" MODIFIED="1647052013358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_1" />
+    <SUITE FILE_PATH="coverage/BOJ$leetcode3.coverage" NAME="leetcode3 Coverage Results" MODIFIED="1647955057385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter11" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ14225.coverage" NAME="BOJ14225 Coverage Results" MODIFIED="1648111349033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BOJ$leetcode125.coverage" NAME="leetcode125 Coverage Results" MODIFIED="1646796615462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter6" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ1182.coverage" NAME="BOJ1182 Coverage Results" MODIFIED="1647871561450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BOJ$BOJ1071.coverage" NAME="BOJ1071 Coverage Results" MODIFIED="1646794619981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ2206.coverage" NAME="BOJ2206 Coverage Results" MODIFIED="1647530956787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BOJ$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1646794614583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/BOJ$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1647677224951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sk_ict_2" />
-    <SUITE FILE_PATH="coverage/BOJ$test.coverage" NAME="test Coverage Results" MODIFIED="1647869951708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter11" />
-    <SUITE FILE_PATH="coverage/BOJ$leetcode42.coverage" NAME="leetcode42 Coverage Results" MODIFIED="1646920500372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter7" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15665.coverage" NAME="BOJ15665 Coverage Results" MODIFIED="1648039278019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ11052.coverage" NAME="BOJ11052 Coverage Results" MODIFIED="1648112936466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$test.coverage" NAME="test Coverage Results" MODIFIED="1648048372760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_algorithm_interview/chapter12" />
     <SUITE FILE_PATH="coverage/BOJ$BOJ4375.coverage" NAME="BOJ4375 Coverage Results" MODIFIED="1647699315121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BOJ$BOJ15486.coverage" NAME="BOJ15486 Coverage Results" MODIFIED="1647526553495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BOJ$BOJ15654.coverage" NAME="BOJ15654 Coverage Results" MODIFIED="1648035677439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
